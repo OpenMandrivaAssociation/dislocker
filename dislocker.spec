@@ -3,7 +3,7 @@
 Summary:	FUSE driver to read/write Windows' BitLocker-ed volumes under Linux / Mac OSX
 Name:		dislocker
 Version:	0.7.3
-Release:	1
+Release:	2
 License:	GPLv2
 Group:		System/Libraries
 URL:		https://github.com/Aorimn/dislocker
